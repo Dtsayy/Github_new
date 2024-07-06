@@ -194,3 +194,4 @@ Trong ví dụ này:
 - Nếu dòng chưa được thêm vào bất kỳ nhóm nhỏ nào, tạo một nhóm nhỏ mới cho dòng đó.
 
 Cuối cùng, DataFrame sẽ được cập nhật với cột mới chứa key của nhóm nhỏ tương ứng cho mỗi dòng trong nhóm lớn. Các dòng có giá trị tương đồng lớn hơn 50% sẽ thuộc cùng một nhóm nhỏ.
+# ThanhCD
